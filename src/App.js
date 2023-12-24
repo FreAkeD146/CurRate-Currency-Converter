@@ -104,7 +104,7 @@ const App = () => {
             </div>
         </div>
         <div className='output'>
-          <h5>Converted Amount: {convertedAmount}</h5>
+          <h5>Converted Amount: {toCurrency}. {convertedAmount}</h5>
         </div>
       </div>
     </div>
