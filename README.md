@@ -1,7 +1,7 @@
 # CurRate Currency Converter
 A simple online currency converter built with React.js.
 
-![CurRate IMG](https://i.imgur.com/KrLM9Io.png)
+![CurRate IMG]https://i.imgur.com/KrLM9Io.png
 
 ## Features
 - Convert between different currencies in real-time
