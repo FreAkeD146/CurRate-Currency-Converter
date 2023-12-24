@@ -27,7 +27,8 @@ A simple online currency converter built with React.js.
 
 ## Technologies Used
 1. React.js
-2. ExchangeRate-Api (You can use any other API of your choice)
+2. Bootstrap v5
+3. ExchangeRate-Api (You can use any other API of your choice)
 
 ## Acknowledgement
 Thanks to ExchangeRate-API for providing real-time exchange rates.
