@@ -88,7 +88,7 @@ const App = () => {
               </select>
             </div>
             <div className="input_container">
-        <label className="input_label">To Currency:</label>
+        <label className="input_label">To</label>
         <select
           name="toCurrency"
           value={toCurrency}
