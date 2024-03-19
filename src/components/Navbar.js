@@ -16,8 +16,7 @@ function Navbar(props) {
           An Online Currency Converter
           </span>
         </div>
-    </nav>
-   
+    </nav>  
     </>
   );
 }
